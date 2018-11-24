@@ -1,0 +1,47 @@
+###### 香港赛马会四川持续发展项目之
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+<br> <br> <br> <br> <br>
+
+<center>
+灾后重建与管理学院持续发展项目 实施方案 （代可行性研究报告）
+评审修改版V2.0 ===
+
+<br> <br> <br> <br> <br>
+
+##### 项目建设单位：四川大学
+
+##### 编制单位：四川大学-香港理工大学 灾后重建与管理学院
+
+##### 编制日期：2018年11月
+
+------------------------------------------------------------------------
+
+<center>
+灾后重建与管理学院持续发展项目 项目实施方案 （代可行性研究报告）
+评审修改版V2.0 ===
+
+------------------------------------------------------------------------
+
+<br> <br> <br> <br>
+
+##### 编制单位：四川大学-香港理工大学 灾后重建与管理学院
+
+##### 编制单位负责人：卡隆基·柯瑞卿 院长
+
+##### 编制单位项目负责人：卡隆基·柯瑞卿 院长
+
+##### 编制单位审核人：陈 勇 常务副院长
+
+##### 编制单位校对人：第宝锋 副院长
+
+##### 编制单位技术人：田兵伟 副教授
+
+kkkkkkkkkkkk
+
+------------------------------------------
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
